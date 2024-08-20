@@ -29,7 +29,7 @@ This Booking App was created as the final capstone project of the **Meta Front-E
 
 ```s
 # Run in the Terminal
-git clone https://github.com/jayantasamaddar/little-lemon-meta-frontend-capstone.git folder
+git clone https://github.com/NABEELA-DINGANKAR/Little_Lemon-_Restro.git folder
 
 # Install Dependencies
 npm install
